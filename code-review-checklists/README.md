@@ -56,7 +56,7 @@ Here a few points to clarify in regards of the testing part:
 * ...
 
 ### Code readability checklist
-We - developers - are all authors. If we do an impeccable job, [our code will read like a prose](). I don't say that always reach this goal for the whole codebase, but we should aim for that. The code reviewer has a huge responsibility here. If you are reading a pull request, please think about the following questions:
+We - developers - are all authors. If we do an impeccable job, [our code will read like a prose](https://www.goodreads.com/quotes/7029841-clean-code-is-simple-and-direct-clean-code-reads-like). I don't say that always reach this goal for the whole codebase, but we should aim for that. The code reviewer has a huge responsibility here. If you are reading a pull request, please think about the following questions:
 
 * Are names meaningful?
 * Are classes/functions small enough?
